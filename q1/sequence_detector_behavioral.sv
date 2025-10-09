@@ -1,4 +1,4 @@
-module sequence_detector_behavioral (
+module sequence_detector_behavioral(
     input logic clk,
     input logic rst_n,
     input logic input_sequence,
